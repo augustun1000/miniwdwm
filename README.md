@@ -30,8 +30,8 @@ remaining clients are vertically stacked in the remaining 40%.
 Dependencies are intentionally the same pkg-config set currently used by DWC.
 
 ```sh
-bmake clean
-bmake
+make clean
+make
 sudo bmake install
 ```
 
